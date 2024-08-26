@@ -44,7 +44,8 @@ auth-pages/
 
 
 ### Expected UI
-![Employees table](https://github.com/user-attachments/assets/6b2abf0e-0244-448c-8786-6cf3f9131a69)
+![Employees table](https://github.com/user-attachments/assets/15b0e9cd-6560-47d9-ae43-3a8af618df8c)
+
 
 
 
