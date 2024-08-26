@@ -41,7 +41,7 @@ auth-pages/
 - TopBar: 16px
 - table heading, button, sideBar: 14px
 - table Content: 13px
-- 
+
 
 ### Expected UI
 ![Employees table](https://github.com/user-attachments/assets/6b2abf0e-0244-448c-8786-6cf3f9131a69)
